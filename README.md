@@ -56,10 +56,17 @@
      		.venv\Scripts\activate.bat
      ## Unix/MacOS:
      		source .venv/bin/activate
-     
-   - Bước 3: Cài đặt các thư viện cần thiết
+     ---
+
+  - Bước 3: Cài đặt các thư viện cần thiết
      ## Install:
      		pip install -r requirements.txt
    - Bước 4: Chạy mã xử lý dữ liệu
      ## Run:
     		python app.py
+     ## Full Documentation
+
+This is a brief overview. For the full documentation and detailed instructions, please refer to:
+
+ [`README_v2.md`](./README_v2.md)
+
